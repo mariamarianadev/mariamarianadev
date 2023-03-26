@@ -1,26 +1,23 @@
-### Hi there 👋
-<p>
-
-<div>
-    <ul> <strong> Back-end: </strong>
-        <li>NodeJS + ExpressJS</li>
-    </ul>
-    <ul> <strong> Front-end: </strong>
-        <li>Javascript;</li>
-            <li> Frameworks: ReactJS; </li>
-           <li> Libraries: Material-UI, Bootstrap. </li> 
-    </ul>
-    <ul> <strong>Database: </strong>
-        <li> MySQL/MariaDB;</li>
-    </ul>
-    <ul> <strong>Tools: </strong>
-        <li> GIT/GitHub/GitLab;</li>
-    </ul>
-</div>
-
+### <h1> Hi there 👋 <h1>
+    
+    
 ## Ferramentas e Tecnologias
+<ul> <strong> <h3> Back-end: </strong> </h2>
+            <li>NodeJS + ExpressJS</li>
+        </ul>
+        <ul> <strong> <h3> Front-end: </strong></h3>
+            <li>Javascript;</li>
+                <li> Frameworks: ReactJS; </li>
+               <li> Libraries: Material-UI, Bootstrap. </li> 
+        </ul>
+        <ul> <strong> <h3> Database: </strong></h3>
+            <li> MySQL/MariaDB;</li>
+        </ul>
+        <ul> <strong> <h3> Tools: </strong> </h3>
+            <li> GIT/GitHub/GitLab;</li>
+    </ul>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 
 
 ## Contatos:
@@ -28,6 +25,8 @@
 <div>
 
 <a href="https://www.linkedin.com/in/mariamarianan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:marianasci7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
           
